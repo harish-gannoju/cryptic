@@ -1,9 +1,9 @@
 # Personal projects
 ## Table of contents
-* [Project names](#Project names)
+* [Projects](#Project names)
 * [Details](#Details)
 
-## Project names
+## Projects
 * tinyurl
 * twitter bot
 * port_scanning tool
