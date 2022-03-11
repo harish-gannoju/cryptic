@@ -1,6 +1,6 @@
 # Personal projects
 ## Table of contents
-* [Projects](#Project names)
+* [Projects](#project_names)
 * [Details](#Details)
 
 ## Projects
