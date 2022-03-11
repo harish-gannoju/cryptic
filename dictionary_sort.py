@@ -1,4 +1,4 @@
-sameple_dict = { 'key1': 5, 'key2': 49, 'key3': 12, 'key4': 39, 'key5': 26 }
+sample_dict = { 'key1': 5, 'key2': 49, 'key3': 12, 'key4': 39, 'key5': 26 }
 
 def high_value_key(ex_dict, n):
     if n>len(ex_dict):
@@ -11,4 +11,4 @@ def high_value_key(ex_dict, n):
         print({k:v for (k,v) in list_new})
         print(list_new[n-1][0])
 
-high_value_key(sameple_dict,9)
+high_value_key(sample_dict,9)
