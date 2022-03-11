@@ -3,7 +3,7 @@
 * [Project_names](#Project names)
 * [Details](#Details)
 
-## Project-names
+## Project_names
 * tinyurl
 * twitter bot
 * port_scanning tool
