@@ -20,8 +20,6 @@ re1 = r1.text
 first_page = []
 second_page = []
 
-
-#login_detail = {'Email address': 'harishgannoju83@gmail.com', 'Password': 'Czar@1308'}
 #s.post('https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/login', login_detail)
 r = s.get('https://example.com/')
 soup2 = BeautifulSoup(r.text, 'html.parser')
